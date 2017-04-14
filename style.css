@@ -19,11 +19,11 @@
 	color:#ea4335;
 	font-family: 'Hind', sans-serif;
 }
-.searchbar_3{
+.searchbar{
 	width:1000px;
 	height:15px;
 	margin: 0 45px;
-	margin-top:4px
+	margin-top:4px;
 }
 .space{
 	background-color:white; 
@@ -36,6 +36,13 @@
 	margin-left:200px;
 	background-color:white;
 	border-color:white;
+	text-decoration:none;
+	border-bottom:solid 3px rgb(66, 133, 244);
+	font-weight:bold;
+	font-family: 'Roboto', sans-serif;
+	cursor:pointer;
+	background:rgb(250, 250, 250);
+
 }
 .top_bar_rest{
 	width:50px;
@@ -45,34 +52,65 @@
 	background-color:white;
 	border-color:white;
 	text-decoration:none;
-	color:black
+	color:black;
+	background:rgb(250, 250, 250);
+
 }
 .number_of_sites_found{
 	color:#808080;
-	margin-left:206px
+	font-size:13px;
+	padding-bottom:20px;
 }
 
 
-.subject{
+
+
+.container{
+	width:600px;
+	margin-left:120px;
+
+}
+
+
+
+.entry {
+	clear: both;
+}
+
+.entry .subject{
+	display: block;
 	font-size:18px;
-	float:right;
-	margin-right:1240px;
-}
-.img_size-text{
-	height:87px;
-	margin-left:184px;
-	margin-top:20px;
-	border-left:solid white 10px
-	padding-left:20px;
-	border-right:solid white 40px;
-}
-.img_size_2{
-	height:87px;
-	margin-left:220px;
-	margin-top:40px;
+	color:#1a0dab;
+	font-weight:normal;
+	text-align:left;
+	font-family: 'Roboto', sans-serif;
+	line-height:21.1px;
+	text-decoration:none;
+	padding: 26px 16px 5px 0;
+	outline:rgb(66, 133, 244) none 0px;
 
 }
-.text2{
-	
 
+.entry img{
+	height:87px;
+	width: 126px;
 }
+
+.entry .text{
+	width: 465px;
+	float: right;
+	color:#545454;
+	text-align:left;
+	margin-bottom:25px;
+	font-family:'roboto' ,arial ,sans-serif;
+	font-size:13px;
+}
+
+
+
+
+
+
+
+
+
