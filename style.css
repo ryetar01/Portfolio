@@ -42,6 +42,7 @@
 	font-family: 'Roboto', sans-serif;
 	cursor:pointer;
 	background:rgb(250, 250, 250);
+	 color: #4285f4;
 
 }
 .top_bar_rest{
@@ -60,6 +61,7 @@
 	color:#808080;
 	font-size:13px;
 	padding-bottom:20px;
+	font-family:'Roboto',arial,sans-serif;
 }
 
 
@@ -104,6 +106,7 @@
 	margin-bottom:25px;
 	font-family:'roboto' ,arial ,sans-serif;
 	font-size:13px;
+	
 }
 
 
