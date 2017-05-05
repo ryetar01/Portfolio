@@ -19,17 +19,18 @@
 	color:#ea4335;
 	font-family: 'Hind', sans-serif;
 }
-.searchbar{
+.searchbar {
+	width: 100%;
+	height: 46px;
+	border: solid 1px #ccc;
+}
+.searchbar2 {
 	width:800px;
 	height:35px;
 	margin: 0 65px;
 	margin-bottom:20px;
 
 
-}
-.space{
-	background-color:white; 
-	height:40px
 }
 .top_bar_all{
 	width:50px;
@@ -125,7 +126,33 @@
 img {
 	border: 1px solid #ebebeb;
 }
+html, body  { margin: 0; padding: 0 }
+body, div	{ box-sizing: border-box; }
+.top{
+	border-bottom: solid 1px #ccc; 
+	min-width: 780px;
+	height: 125px; 
+	background: #fafafa;
+}
+.left{
+	background: red; 
+	width: 150px; height: 100%; 
+	float: left;
+	padding: 20px; font-size: 27px; text-align: center; 
 
+}
+.right{
+	background: green;
+	float: left;
+	width: 630px; height: 100%;
+	padding: 20px 5px 20px;
+}
+.topmenu{
+	padding-top: 15px;
+}
+.topmenu a{	
+	background: yellow;		
+}
 
 
 

@@ -3,5 +3,4 @@
 TO DO
 --
 - Style search bar
-- Add gray line to bottom of header
 - Search modes menu - font, color, spacing
