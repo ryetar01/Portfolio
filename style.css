@@ -33,37 +33,17 @@
 
 }
 .top_bar_all{
-	width:50px;
-	height:25px;
-	margin-top:40px;
-	margin-left:200px;
-	background-color:white;
-	border-color:white;
+	font-size:13px;
 	text-decoration:none;
-	border-bottom:solid 3px rgb(66, 133, 244);
-	font-weight:bold;
+	border-bottom:solid 1px #4285f4;
 	font-family: 'Roboto', sans-serif;
-	cursor:pointer;
-	background:rgb(250, 250, 250);
-	color: #4285f4;
-	background:#fafafa;
-	font-size:12px;
-
 	 
 }
 .top_bar_rest{
-	width:25px;
-	height:40px;
-	margin-top:40px;
-	margin-left:16px;
-	background-color:white;
-	border-color:white;
+	font-size:13px;
 	text-decoration:none;
 	color:#777;
-	background:rgb(250, 250, 250);
-	font-family:'Roboto', sans-serif;
-	background:#fafafa;
-	font-size:12px;
+	font-family: 'Roboto', arial,sans-serif;
 
 }
 .number_of_sites_found{
@@ -135,23 +115,28 @@ body, div	{ box-sizing: border-box; }
 	background: #fafafa;
 }
 .left{
-	background: red; 
+	background: #fafafa; 
 	width: 150px; height: 100%; 
 	float: left;
 	padding: 20px; font-size: 27px; text-align: center; 
 
 }
 .right{
-	background: green;
+	background: #fafafa;
 	float: left;
 	width: 630px; height: 100%;
 	padding: 20px 5px 20px;
 }
 .topmenu{
 	padding-top: 15px;
+	
+	
+
 }
 .topmenu a{	
-	background: yellow;		
+	background: #fafafa;
+	padding-left:10px;
+			
 }
 
 
