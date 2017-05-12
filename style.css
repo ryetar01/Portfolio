@@ -21,7 +21,7 @@
 }
 .searchbar {
 	width: 100%;
-	height: 46px;
+	height: 44px;
 	border: solid 1px #ccc;
 }
 .searchbar2 {
@@ -35,15 +35,21 @@
 .top_bar_all{
 	font-size:13px;
 	text-decoration:none;
-	border-bottom:solid 1px #4285f4;
+	border-bottom:solid 3px #4285f4;
 	font-family: 'Roboto', sans-serif;
-	 
+	color:rgb(66, 133, 244); 
+	font-weight:bold;
+	padding-bottom:12px;
+	margin-right:8px;
+	padding-right:12px;
 }
 .top_bar_rest{
 	font-size:13px;
 	text-decoration:none;
 	color:#777;
 	font-family: 'Roboto', arial,sans-serif;
+	margin-right:8px;
+	padding-right:12px;
 
 }
 .number_of_sites_found{
@@ -58,7 +64,7 @@
 
 .container{
 	width:600px;
-	margin-left:120px;
+	margin-left:230px;
 
 }
 
@@ -111,12 +117,12 @@ body, div	{ box-sizing: border-box; }
 .top{
 	border-bottom: solid 1px #ccc; 
 	min-width: 780px;
-	height: 125px; 
+	height: 117px; 
 	background: #fafafa;
 }
 .left{
 	background: #fafafa; 
-	width: 150px; height: 100%; 
+	width: 210px; height: 100%; 
 	float: left;
 	padding: 20px; font-size: 27px; text-align: center; 
 
@@ -135,11 +141,13 @@ body, div	{ box-sizing: border-box; }
 }
 .topmenu a{	
 	background: #fafafa;
-	padding-left:10px;
+	padding-left:12px;
+	
 			
 }
-
-
+.settings{
+	float:right;
+}
 
 
 
