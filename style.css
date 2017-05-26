@@ -101,7 +101,6 @@
 	margin-bottom:25px;
 	font-family:'roboto' ,arial ,sans-serif;
 	font-size:13px;
-	
 }
 .did_you_mean{
 	color:red;
@@ -146,8 +145,17 @@ body, div	{ box-sizing: border-box; }
 			
 }
 .settings{
-	float:right;
-}
+	
 
+}
+.text2{
+	font-style:italic;
+	width: 465px;
+	color:#545454;
+	text-align:left;
+	font-family:'italic' ,arial ,sans-serif;
+	font-size:13px;
+
+}
 
 
