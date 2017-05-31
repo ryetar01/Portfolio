@@ -94,7 +94,7 @@
 }
 
 .entry .text{
-	width: 465px;
+	
 	float: right;
 	color:#545454;
 	text-align:left;
@@ -144,10 +144,10 @@ body, div	{ box-sizing: border-box; }
 	
 			
 }
-.settings{
+
 	
 
-}
+
 .text2{
 	font-style:italic;
 	width: 465px;
@@ -156,6 +156,15 @@ body, div	{ box-sizing: border-box; }
 	font-family:'italic' ,arial ,sans-serif;
 	font-size:13px;
 
+}
+.greentext{
+	width:465px;
+	float:right;
+	color:#006621;
+	text-align:left;
+	font-family:'roboto' ,arial ,sans-serif;
+	font-size:13px;
+	
 }
 
 
